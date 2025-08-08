@@ -34,4 +34,4 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 - Building my dream personal site
 - Creating animations and illustrations I've had in mind
 - Working on some AI/ML projects within the healthcare and medical setting
-- Give my path-traced damselfly a pair of flapping wings
+- Giving my path-traced damselfly a pair of flapping wings
