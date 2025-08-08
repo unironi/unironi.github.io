@@ -12,10 +12,10 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 
 # Projects
 
-- Chef 449 (team-based UI/UX project) - May-Aug 2025
-- Path-tracer for rendering damselfly (computer graphics) - Aug 2025
-- Debevic-Malik method to create HDR Images (computer vision) - May 2025
-- Virtual shopping list (front-end development) - May 2025
+- Chef 449 (team-based UI/UX project)
+- Path-tracer for rendering damselfly (computer graphics)
+- Debevic-Malik method to create HDR Images (computer vision)
+- Virtual shopping list (front-end development)
 - Multiple attempts at creating a personal site with React.js back in second year, never deployed :D
 
 # Hobbies
