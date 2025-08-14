@@ -50,14 +50,25 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 <details>
   <summary>Pexhouse Inc. - Web Developer - May-Aug 2022</summary>
   <ul>
-    
+    <li>Fixed layout in WordPress editor and enhanced email templates using WooCommerce code snippets to improve appearance of site</li>
+    <li>Created staging site to thoroughly debug and test features before pushing to live, such as resolving PHP version, theme, and plugin conflicts </li>
+    <li>Ensured higher performance and availability by updating nameservers, ensuring security, and debugging through LiquidWeb, Bluehost, cPanel, and Cloudflare</li>
+    <li>Improved site safety with Cloudflare and WordPress plugins</li>
+    <li>Enhanced backend features for admin such as adding courier options in custom WordPress PHP snippets</li>
   </ul>
 </details>
 
 <details>
-  <summary>MNP Digital - Q&A - Sep-Dec 2021</summary>
+  <summary>MNP Digital - .NET Developer - Sep-Dec 2021</summary>
+  <ul>
+    <li>Managed DevOps during development sprints and testing cycles, which included detecting and reporting defects in the product through many, many manual tests</li>
+    <li>Configured and debugged Microsoft Dynamics 365 forms, entitities, snippets, attributes, workflows, etc.</li>
+    <li>Created  report views, charts, dashboards in D365</li>
+    <li>Created support material for clients like training videos and documentation on product</li>
+    <li>Collaborated with QA, developers, and project manager using the Agile method</li>
+  </ul>
 </details>
-
+<br>
 
 # Projects
 
