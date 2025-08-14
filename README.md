@@ -17,7 +17,14 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 <details>
   <summary>St. Joe's Healthcare Hamilton - Part-time Research Assistant Jun-Aug 2024</summary>
   <ul>
-    <li></li>
+    <li>Explored the question of whether respiratory infection rates among children can predict respiratory infection rates among the elderly to enforce sooner preventative measures</li>
+    <ul>
+      <li>Filtered and analyzed 10 years of collected data in Excel, plotting out trends over the years</li>
+      <li>Wrote a <a href="https://docs.google.com/document/d/11BIxPAbYSS2TFHtB-xkot4pSS1u57TQS9h8ceGyNb6k/edit?usp=sharing">summary</a> of the results, finding that RSV infection rates among children can help us predict seasonal peaks</li>
+      <li>Implemented <a href="https://github.com/unironi/SARIMA-on-respiratory-database">SARIMA</a> in Python to forcast future peak</li>
+    </ul>
+    <li>Collaborated with a group of McMaster undergraduate students to help them set up their study "<a href="https://1drv.ms/b/c/bcae31a56b7c8e2c/EWIQ4GhJVuFApuxO8cj4yi4Bf4Rr28DF_V31pjIi9HQc0Q?e=LNyyfr">Snooze-to-Defuse</a>" in REDCap</li>
+    <li>Filtered, graphed, and analyzed 20 years of collected data on bacterial infection rates in both hospital and non-hospital acquired infections, presenting linear regression <a href="https://drive.google.com/file/d/1u2zye6CnDxRI7f8jxqjhK_YtfXZLK-ob/view?usp=sharing">graphs and trends</a> to a small group of researchers</li>
   </ul>
   
 </details>
@@ -42,6 +49,9 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 
 <details>
   <summary>Pexhouse Inc. - Web Developer - May-Aug 2022</summary>
+  <ul>
+    
+  </ul>
 </details>
 
 <details>
