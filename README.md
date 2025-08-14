@@ -48,7 +48,7 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
     <li>Implemented using Vite, Typescript, Preact, HTML, and CSS</li>
   </ul>
 </details>
-  
+<br>
 
 # Hobbies
 
