@@ -15,7 +15,7 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 </details>
 
 <details>
-  <summary>St. Joe's Healthcare Hamilton - Part-time Research Assistant Jun-Aug 2024</summary>
+  <summary>St. Joe's Healthcare Hamilton - Part-time Research Assistant - Jun-Aug 2024</summary>
   <ul>
     <li>Explored the question of whether respiratory infection rates among children can predict respiratory infection rates among the elderly to enforce sooner preventative measures</li>
     <ul>
