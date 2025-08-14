@@ -50,11 +50,11 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 <details>
   <summary>Pexhouse Inc. - Web Developer - May-Aug 2022</summary>
   <ul>
-    <li>Fixed layout in WordPress editor and enhanced email templates using WooCommerce code snippets to improve appearance of site</li>
+    <li>Fixed layout of pages in WordPress editor and enhanced email templates using WooCommerce code snippets to improve appearance of site and emails</li>
     <li>Created staging site to thoroughly debug and test features before pushing to live, such as resolving PHP version, theme, and plugin conflicts </li>
-    <li>Ensured higher performance and availability by updating nameservers, ensuring security, and debugging through LiquidWeb, Bluehost, cPanel, and Cloudflare</li>
+    <li>Ensured higher performance and availability by updating nameservers, enhancing security, and doing additional configurations through LiquidWeb, Bluehost, cPanel, and Cloudflare</li>
     <li>Improved site safety with Cloudflare and WordPress plugins</li>
-    <li>Enhanced backend features for admin such as adding courier options in custom WordPress PHP snippets</li>
+    <li>Enhanced backend features for admin such as adding courier options through custom WordPress PHP snippets</li>
   </ul>
 </details>
 
