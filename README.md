@@ -2,13 +2,52 @@
 
 Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a Bachelor of Computer Science + HCI Specialization + Psychology minor. I am currently looking for full-time opportunities related to web development, UI/UX design or research, or software development, so please reach out to me at o3hasan@uwaterloo.ca or oronihasan@gmail.com for inquiries.
 
-# Experiences
+# My Co-ops
 
-- D2l - Web Experience Coordinator - Sept-Dec 2024
-- St. Joe's Healthcare Hamilton - Part-time Research Assistant June-Aug 2024
-- D2L - Web Experience Coordinator - Sept-Dec 2023
-- Pexhouse Inc. - Web Developer - May-Aug 2022
-- MNP - Q&A - Sept-Dec 2021
+<details>
+  <summary>D2l - Web Experience Coordinator - Sep-Dec 2024</summary>
+  <ul>
+    <li>Helped my team rebrand <a href="d2l.com">d2l.com</a> by creating custom WordPress blocks using PHP, SCSS, JavaScript, HTML</li>
+    <li>Analyzed segments in GA4 to assist with A/B testing in Mutiny</li>
+    <li>Automated manual tasks in Google Sheets using Apps Script and JavaScript</li>
+    <li>Collaborated with integrated marketing teams to publish campaigns and events on our site</li>
+  </ul>
+</details>
+
+<details>
+  <summary>St. Joe's Healthcare Hamilton - Part-time Research Assistant Jun-Aug 2024</summary>
+  <ul>
+    <li></li>
+  </ul>
+  
+</details>
+
+<details>
+  <summary>D2L - Web Experience Coordinator - Sep-Dec 2023</summary>
+  <ul>
+    <li>Designed and built a custom pop-up widget to promote content to visitors using WordPress ACF, PHP, CSS, HTML, and Javascript; this widget allowed adding a large image, heading, description, CTA, and video with thumbnail, as well as choosing a pop-up activation and theme colour </li>
+    <li>Helped with debugging existing features e.g. adding mobile view and video option for customer quote-blocks</li>
+    <li>Automated the following process: fetching leads from Salesforce into a new Excel tab and emailing the marketing team this updated sheet everyday
+      <ul>
+        <li>I used Power Query to fetch data from Salesforce (this was kind of finnicky)</li>
+        <li>Then wrote a short script using Office Script to create a new tab in the Excel sheet named with the current date and populate the sheet with the data</li>
+        <li>I then used Power Automate to run the script and email everyone on a schedule</li>
+      </ul>
+    </li>
+    <li>Created a signature module in Marketo using HTML so users can drag and drop when creating emails instead of manually adding their signatures</li>
+    <li>Created and updated pages for events and campaigns while collaborating with other marketing teams</li>
+    <li>Extracted and reported analyses from Power BI</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Pexhouse Inc. - Web Developer - May-Aug 2022</summary>
+</details>
+
+<details>
+  <summary>MNP Digital - Q&A - Sep-Dec 2021</summary>
+</details>
+
 
 # Projects
 
