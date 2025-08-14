@@ -12,11 +12,43 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 
 # Projects
 
-- Chef 449 (team-based UI/UX project)
-- Path-tracer for rendering damselfly (computer graphics)
-- Debevic-Malik method to create HDR Images (computer vision)
-- Virtual shopping list (front-end development)
-- Multiple attempts at creating a personal site with React.js back in second year, never deployed :D
+<details>
+  <summary>Chef 449 (UI/UX)</summary>
+  <ul>
+    <li>Designed an <a href="https://docs.google.com/document/d/1lNVjurTwWHKNS7iNYl6BO3pldFBV6Yz0v93p5wTdlug/edit?usp=sharing">AI-powered cooking assistant app</a> within a team of four by following the full design process of empathizing, defining, ideating, prototyping, and some testing</li>
+    <li>Conducted user research by creating personas, designing and executing interviews with target audience to find pain points, and synthesizing findings using affinity and empathy maps to inform feature development</li>
+    <li>Built paper, low-fidelity, and <a href="https://www.figma.com/design/f3OqJgL6vKfTDeHZ6Nz4YK/CS-449-High-Fidelity-Prototype?node-id=125-1919&t=SRKqb7w76EZhLDrO-1">high-fidelity</a> prototypes, iteratively improving designs based on peer feedback from design critique sessions, heuristic evaluations, and cognitive walkthroughs</li>
+    <li>Collaborated closely with other team members, maintaining consistent communication, dividing tasks amongst us effectively, and ensuring deliverables were on time through the four-month design process</li>
+    <li>Illustrated on-theme graphics for the high-fidelity prototype to make the app more visually appealing and inviting</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Path-tracer for rendering damselfly (computer graphics)</summary>
+  <ul>
+    <li>Built a <a href="https://github.com/unironi/damselfly-in-distress">pathtracer</a> which included methods like Cook Torrance BRDF, Monte Carlo integration, importance sampling, & volumetric effects</li>
+    <li>Modelled the damselfly in Blender and applied materials in Metasequoia</li>
+    <li>Implemented in C++</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Debevic-Malik method to create HDR Images (computer vision)</summary>
+  <ul>
+    <li>Explored how to create <a href="https://github.com/unironi/HDR-Imaging/">HDR images</a> using Debevec-Malik method and tone-mapping using bracketed images of varying exposures</li>
+    <li>Implemented in Numpy</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Virtual shopping list (front-end development)</summary>
+  <ul>
+    <li>Built a <a href="https://github.com/unironi/shopping-list">shopping to-do list</a> where users can add a grocery item, as well as its quantity and category</li>
+    <li>Integrated price-fetching API so users can see cost of grocery items</li>
+    <li>Implemented using Vite, Typescript, Preact, HTML, and CSS</li>
+  </ul>
+</details>
+  
 
 # Hobbies
 
