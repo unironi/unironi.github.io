@@ -127,3 +127,8 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 - Creating animations and illustrations I've had in mind
 - Working on some AI/ML projects within the healthcare and medical setting
 - Giving my path-traced damselfly a pair of flapping wings
+
+# Connect with me!
+- Art account: https://www.instagram.com/ororotheunicorn/
+- LinkedIn: https://www.linkedin.com/in/oroni-hasan/
+- GitHub: https://github.com/unironi
