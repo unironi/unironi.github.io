@@ -8,9 +8,9 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
   <summary>D2l - Web Experience Coordinator - Sep-Dec 2024</summary>
   <ul>
     <li>Helped my team rebrand <a href="d2l.com">d2l.com</a> by creating custom WordPress blocks using PHP, SCSS, JavaScript, HTML</li>
-    <li>Analyzed segments in GA4 to assist with A/B testing in Mutiny</li>
+    <li>Identified audience segments in GA4 to assist with A/B testing in Mutiny, helping us personalize web experiences for different regions and industries; we saw a conversion rate increase of about 4% in one of our segments as a result</li>
     <li>Automated manual tasks in Google Sheets using Apps Script and JavaScript</li>
-    <li>Collaborated with integrated marketing teams to publish campaigns and events on our site</li>
+    <li>Collaborated with integrated marketing teams to create or update campaigns and events on our site</li>
   </ul>
 </details>
 
@@ -50,7 +50,7 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 <details>
   <summary>Pexhouse Inc. - Web Developer - May-Aug 2022</summary>
   <ul>
-    <li>Fixed layout of pages in WordPress editor and enhanced email templates using WooCommerce code snippets to improve appearance of site and emails</li>
+    <li>Adjusted page layouts using WordPress editor and modified WooCommerce code snippets for email templates to enhance the appearance of the site and emails</li>
     <li>Created staging site to thoroughly debug and test features before pushing to live, such as resolving PHP version, theme, and plugin conflicts </li>
     <li>Ensured higher performance and availability by updating nameservers, enhancing security, and doing additional configurations through LiquidWeb, Bluehost, cPanel, and Cloudflare</li>
     <li>Improved site safety with Cloudflare and WordPress plugins</li>
@@ -63,9 +63,9 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
   <ul>
     <li>Managed DevOps during development sprints and testing cycles, which included detecting and reporting defects in the product through many, many manual tests</li>
     <li>Configured and debugged Microsoft Dynamics 365 forms, entitities, snippets, attributes, workflows, etc.</li>
-    <li>Created  report views, charts, dashboards in D365</li>
+    <li>Created visualizations including report views, charts, dashboards in D365</li>
     <li>Created support material for clients like training videos and documentation on product</li>
-    <li>Collaborated with QA, developers, and project manager using the Agile method</li>
+    <li>Collaborated with QA, developers, and project manager using the Agile method to ensure timely and high-quality deliverables</li>
   </ul>
 </details>
 <br>
