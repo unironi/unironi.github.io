@@ -129,6 +129,6 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 - Giving my path-traced damselfly a pair of flapping wings
 
 # Connect with me!
-- Art account: https://www.instagram.com/ororotheunicorn/
-- LinkedIn: https://www.linkedin.com/in/oroni-hasan/
-- GitHub: https://github.com/unironi
+- [Art Account](https://www.instagram.com/ororotheunicorn/)
+- [LinkedIn](https://www.linkedin.com/in/oroni-hasan/)
+- [GitHub](https://github.com/unironi)
