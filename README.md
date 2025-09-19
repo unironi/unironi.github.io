@@ -132,3 +132,4 @@ Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a B
 - [Art Account](https://www.instagram.com/ororotheunicorn/)
 - [LinkedIn](https://www.linkedin.com/in/oroni-hasan/)
 - [GitHub](https://github.com/unironi)
+- [Design Portfolio](https://unironi.github.io/Design-Portfolio/)
