@@ -2,7 +2,7 @@
 
 Hi! I'm Oroni, and I recently graduated from the University of Waterloo with a Bachelor of Computer Science + HCI Specialization + Psychology minor. I am currently looking for full-time opportunities related to web development, software development, data science, [UI/UX design](https://unironi.github.io/Design-Portfolio/) or research, front-end or full-stack, and even computational art. I have dabbled in a little bit of many topics, so I could go in any direction at the moment (in terms of simulated annealing, my career life is represented by a very high temperature). I have also been a life-long art hobbyist including hand-drawn illustration, digital art, and occasional private singing and piano-playing. While I am done with school now, I have been staying on top of industry trends (e.g. Next.js, SQL, Python in more data science applications, etc.), reviewing my past courses, and cooking up some personal project ideas. 
 
-If you have any inquiries for me, please reach out to me at o3hasan@uwaterloo.ca or oronihasan@gmail.com.
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) or email me at o3hasan@uwaterloo.ca or oronihasan@gmail.com.
 
 # My Co-ops
 
@@ -115,11 +115,9 @@ If you have any inquiries for me, please reach out to me at o3hasan@uwaterloo.ca
 # Hobbies
 
 - Creating illustrations (both hand-drawn, digital, and occasional Blender)
-- Lots of walking!
-- Exploring the city, going to local events, trying new food places or cafes
-- Going for nature walks or runs
-- Strength training
+- Lots of walking and connecting with nature or exploring spots/events in the city
 - Reading
+- Exercising
 - Trying out new things to cook
 
 # Looking Forwards
