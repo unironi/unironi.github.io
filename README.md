@@ -114,14 +114,13 @@ If you have any inquiries for me, please reach out to me at o3hasan@uwaterloo.ca
 
 # Hobbies
 
-- Creating illustrations (both hand-drawn and digital)
+- Creating illustrations (both hand-drawn, digital, and occasional Blender)
 - Lots of walking!
 - Exploring the city, going to local events, trying new food places or cafes
 - Going for nature walks or runs
 - Strength training
 - Reading
 - Trying out new things to cook
-- Recently picked up Blender!
 
 # Looking Forwards
 
