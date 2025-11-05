@@ -108,6 +108,7 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
     <li>Built a <a href="https://github.com/unironi/shopping-list">shopping to-do list</a> where users can add a grocery item, as well as its quantity and category</li>
     <li>Integrated price-fetching API so users can see cost of grocery items</li>
     <li>Implemented using Vite, Typescript, Preact, HTML, and CSS</li>
+    <li>Deployed using AWS Amplify: <a href="https://main.d2grs01ek42xqo.amplifyapp.com">live site</a></li>
   </ul>
 </details>
 <br>
