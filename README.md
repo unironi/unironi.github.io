@@ -22,7 +22,7 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
     <li>Explored the question of whether respiratory infection rates among children can predict respiratory infection rates among the elderly to enforce sooner preventative measures</li>
     <ul>
       <li>Filtered and analyzed 10 years of collected data in Excel, plotting out trends over the years</li>
-      <li>Wrote a <a href="https://docs.google.com/document/d/11BIxPAbYSS2TFHtB-xkot4pSS1u57TQS9h8ceGyNb6k/edit?usp=sharing">summary</a> of the results, finding that RSV infection rates among children can help us predict seasonal peaks</li>
+      <li>Wrote a <a href="https://docs.google.com/document/d/e/2PACX-1vROFC0l-4f1FHMhklyWcMx-r9JulO8brUJRh1QWIQWWTgLMF_EarJmReDK5qKbzOgDMwSe_do7OxYRR/pub">summary</a> of the results, finding that RSV infection rates among children can help us predict seasonal peaks</li>
       <li>Implemented <a href="https://github.com/unironi/SARIMA-on-respiratory-database">SARIMA</a> in Python to forcast future peak</li>
     </ul>
     <li>Collaborated with a group of McMaster undergraduate students to help them set up their study "<a href="https://1drv.ms/b/c/bcae31a56b7c8e2c/EWIQ4GhJVuFApuxO8cj4yi4Bf4Rr28DF_V31pjIi9HQc0Q?e=LNyyfr">Snooze-to-Defuse</a>" in REDCap</li>
