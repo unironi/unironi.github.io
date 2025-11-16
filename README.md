@@ -115,7 +115,7 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
 
 # Hobbies
 
-- Making art (traditional hand-drawn, digital art, seasonal crochet/knitting phase, occasional Blender, making songs, occasional painting, dioramas)
+- Making art (drawing, digital art, seasonal crochet/knitting phase, occasional Blender, making songs, occasional painting, dioramas)
 - Lots of walking and connecting with nature and foraging black walnuts in autumn
 - Exploring spots/events in the city and checking out live music
 - Reading
