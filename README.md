@@ -115,15 +115,20 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
 
 # Hobbies
 
-- Making art (traditional hand-drawn, digital art, occasional Blender, making songs, occasional painting, dioramas)
-- Lots of walking and connecting with nature (+ foraging) or exploring spots/events in the city
+- Making art (traditional hand-drawn, digital art, seasonal crochet/knitting phase, occasional Blender, making songs, occasional painting, dioramas)
+- Lots of walking and connecting with nature and foraging black walnuts in autumn
+- Exploring spots/events in the city and checking out live music
 - Reading
 - Exercising
-- Trying out new things to cook
+- Trying out new things to cook or bake
 
 # Looking Forwards
 
-- Building my dream personal site
+- Several personal project ideas:
+  - Soda Can City (mechanical diorama)
+  - Emotional Creature (webpage art that responds to emotional analysis of user-inputted data)
+  - Music Space (creatively display music taste), subpart of dream personal site
+  - Interactive Map of Fashion Throughout Time
 - Creating animations and illustrations I've had in mind
 - Working on some AI/ML projects within the healthcare and medical setting
 - Giving my path-traced damselfly a pair of flapping wings
