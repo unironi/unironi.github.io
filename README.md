@@ -113,6 +113,46 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
 </details>
 <br>
 
+# Tech stack
+
+### Experienced:
+- C++ (+5 yrs)
+  - some exposure from high school robotics
+  - several undergrad courses (OOP software development, compilers, data structures & data management, algorithms, operating systems, computer graphics)
+  - my go-to language for practicing
+- Python (+3 yrs)
+  - some exposure before starting university
+  - a few upper-year undergrad courses (numerical computation, intro to ai, computer vision)
+  - used for time series forecasting during research assistantship at SJHH
+  - NumPy, Pandas, Scikit, PyTorch
+- HTML (+3 yrs)
+  - random exposures
+  - used HTML in a few of my co-ops
+- JavaScript/TypeScript + CSS/Tailwind/Bootstrap (+2 yrs)
+  - a couple undergrad courses (computational digital art studio, user interfaces)
+  - exposure from my D2L co-ops
+
+### New skills in progress:
+- SQL
+  - followed DataCamp tutorials and practices + other online resources
+- Dart/Flutter
+  - followed along Flutter tutorial to make a word-generating app
+- Next.js
+  - followed Next.js tutorial to make an app
+- AWS
+  - deployed a website
+  - DataCamp tutorial on AWS concepts
+
+### Skills but it's been a while:
+- Racket
+  - Only used in my first CS course in undergrad
+- R
+  - used in two undergrad courses (probability, statistics)
+  - recently helped my dad with some data visualization in R
+- C
+  - used in the undergrad course "elementary algorithm design and data abstraction"
+
+
 # Hobbies
 
 - Making art (drawing, digital art, seasonal crochet/knitting phase, occasional Blender, making songs, occasional painting, dioramas)
