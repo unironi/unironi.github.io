@@ -168,9 +168,12 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
   - Soda Can City (mechanical diorama)
   - Emotional Creature (webpage art that responds to emotional analysis of user-inputted text data)
   - Music Space (creative webpage that displays music taste), subpart of dream personal site
-  - Interactive Map of Fashion Throughout Time
+  - Interactive History Map
+  - Voronoi Art Generator
+  - Cafe Comparison
 - Creating animations and illustrations I've had in mind
-- Working on some AI/ML projects within the healthcare and medical setting
+- Looking into AI/ML projects within the healthcare and medical setting
+- a SQL project
 - Giving my path-traced damselfly a pair of flapping wings
 
 # Connect with me!
