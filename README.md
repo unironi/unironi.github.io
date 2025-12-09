@@ -143,14 +143,17 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
   - deployed a website
   - DataCamp tutorial on AWS concepts
 
-### Skills but it's been a while:
+### Rusty skills:
 - Racket
-  - Only used in my first CS course in undergrad
+  - Learned functional programming in Racket during my first undergrad CS course
 - R
   - used in two undergrad courses (probability, statistics)
-  - recently helped my dad with some data visualization in R
+  - recently helped my dad with some data visualization using R
 - C
   - used in the undergrad course "elementary algorithm design and data abstraction"
+- Node.js
+  - Created a Discord bot a couple years ago that would output a random picture of a cute animal on demand
+  
 
 
 # Hobbies
