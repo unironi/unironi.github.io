@@ -142,6 +142,8 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
 - AWS
   - deployed a website
   - DataCamp tutorial on AWS concepts
+- Angular
+- Ionic
 
 ### Rusty skills:
 - Racket
@@ -153,6 +155,7 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
   - used in the undergrad course "elementary algorithm design and data abstraction"
 - Node.js
   - Created a Discord bot a couple years ago that would output a random picture of a cute animal on demand
+  - Planning on re-picking up Node.js + Express
   
 
 
