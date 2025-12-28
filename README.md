@@ -13,6 +13,7 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
     <li>Identified audience segments in GA4 to assist with A/B testing in Mutiny, helping us personalize web experiences for different regions and industries; we saw a conversion rate increase of about 4% in one of our segments as a result</li>
     <li>Automated manual tasks in Google Sheets using Apps Script and JavaScript</li>
     <li>Collaborated with integrated marketing teams to create or update campaigns and events on our site</li>
+    <li>Improved site performance by debugging and extending WordPress components while collaborating with developers in code reviews/brainstorming sessions</li>
   </ul>
 </details>
 
@@ -128,7 +129,7 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
 - HTML (3+ yrs)
   - random exposures
   - used HTML in a few of my co-ops
-- JavaScript/TypeScript + CSS/Tailwind/Bootstrap (2+ yrs)
+- JavaScript/TypeScript/React + CSS/Tailwind/Bootstrap (2+ yrs)
   - a couple undergrad courses (computational digital art studio, user interfaces)
   - exposure from my D2L co-ops
 
