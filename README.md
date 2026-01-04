@@ -132,9 +132,6 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
 - JavaScript/TypeScript/React + CSS/Tailwind/Bootstrap (2+ yrs)
   - a couple undergrad courses (computational digital art studio, user interfaces)
   - exposure from my D2L co-ops
-- Node.js
-  - Created a Discord bot a couple years ago that would output a random picture of a cute animal on demand
-  - Played around with a basic REST API using Node + Express and Postman
 
 ### New skills in progress:
 - SQL
@@ -146,6 +143,9 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
 - AWS
   - deployed a website
   - DataCamp tutorial on AWS concepts
+- Node.js
+  - Created a Discord bot a couple years ago that would output a random picture of a cute animal on demand
+  - Played around with a basic REST API using Node + Express and Postman
 - Angular
 - Ionic
 
