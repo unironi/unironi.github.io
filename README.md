@@ -75,6 +75,41 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
 
 # Projects
 
+## Ongoing projects
+<details>
+  <summary>McMastering Time Tracking (full-stack & mobile)</summary>
+  <ul>
+    <li>Creating a time-keeping app for a department at McMaster University using Supabase and React</li>
+    <li>Using Supabase to maintain Postgre tables, RLS policies, foreign keys, triggers, and authentication</li>
+    <li>Using React for browser version of app, and I plan on using React Native for a mobile app version</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Genetic Programming and Figure Skating (AI)</summary>
+  <ul>
+    <li>Applying genetic programming to create optimal skating sequences based on personalized skillset</li>
+    <li>Tools: Python and Jupyter notebook, and I will look into Streamlit to create an interface</li>
+  </ul>
+</details>
+
+## Past Projects
+<details>
+  <summary>Twitter Media Explorer (front-end + api integration)</summary>
+  <ul>
+    <li>Created a web app that allows a user to input a Twitter post URL and explore its retweeters and their media</li>
+    <li>Tools: Next.js, React, TypeScript, twitterapi.io, Tailwind CSS, Vercel</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Another grocery app (full-stack)</summary>
+  <ul>
+    <li>A grocery list app for a take-home interview assignment that gave me the chance to explore an unfamiliar tech stack</li>
+    <li>Tools: Angular, Django REST Framework, HTML, CSS, AWS S3 and EC2</li>
+  </ul>
+</details>
+
 <details>
   <summary>Chef 449 (UI/UX)</summary>
   <ul>
