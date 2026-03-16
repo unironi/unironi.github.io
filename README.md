@@ -92,6 +92,8 @@ You can reach out to me on [LinkedIn](https://www.linkedin.com/in/oroni-hasan/) 
     <li>Tools: Python and Jupyter notebook, and I will look into Streamlit to create an interface</li>
   </ul>
 </details>
+<br>
+
 
 ## Past Projects
 <details>
